@@ -60,8 +60,7 @@ The practicals provide hands-on experience with modern database technologies, in
 The Neo4j and graph database implementation have been maintained in a separate repository.
 
 **Neo4j Repository:**
-https://github.com/<your-username>/<your-neo4j-repository>
-
+(https://github.com/Jananijana2712/Social-Media-Application-Using-Graph-Database)
 The repository includes:
 
 * Cypher Query Language
